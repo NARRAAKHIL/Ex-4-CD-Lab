@@ -65,7 +65,6 @@ yyerror(char*s)
 {
 }
 ```
-
 # Output:
 ![image](https://github.com/user-attachments/assets/e96d9e10-5302-4a7f-b640-dd0d63148840)
 
